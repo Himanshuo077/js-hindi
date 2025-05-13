@@ -28,7 +28,15 @@ console.log(Bignumber);
 const name = ['Sonu','Manish','Khushi','Tau'];
 console.log(name);
 
-let 
+let myobj={
+    name :'khushi',
+    age :24,
 
+}
+console.log(myobj);
 
+const myfunction = function(){
+    console.log("MBA");
+
+}
 

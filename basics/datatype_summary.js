@@ -23,4 +23,12 @@ console.log(Bignumber);
 //Non-primitive
 //Reference
 
+//Array, object, function
+
+const name = ['Sonu','Manish','Khushi','Tau'];
+console.log(name);
+
+let 
+
+
 

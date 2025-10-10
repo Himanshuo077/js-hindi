@@ -13,7 +13,7 @@ number1.isLoggIn = false
 const regularuser = {
     email : "golu@gmail.com",
     name : "Golu",
-    fullname : {
+    fullname : {                                       
         userfullname : {
             firstname : "Manish",
             lastname : "kumar"

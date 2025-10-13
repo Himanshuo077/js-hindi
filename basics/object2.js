@@ -45,9 +45,17 @@ const user = [
 ]
 
 user[1].email
-console.log(number1);
+// console.log(number1);
 
-console.log(Object.keys(number1));
-console.log(Object.values(number1));
-console.log(Object.entries(number1));
+// console.log(Object.keys(number1));
+// console.log(Object.values(number1));
+// console.log(Object.entries(number1));
 
+const course = {
+    coursename : "js",
+    price : 999,
+    instructor : "hitesh"
+}
+
+const {price} = course
+console.log(price);
